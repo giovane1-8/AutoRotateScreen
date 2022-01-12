@@ -8,8 +8,9 @@ This script uses **iio-sensor-proxy** to read the screen's pitch and roll angles
 
 To make the script permanent, make it executable with **chmod +x AutoRotateScreen.py** and add it to the Startup Applications list so it starts working at login.
 
-# Mudar nome da variavel 'touchpad'
+
 
 ***
+    Mudar nome da variavel 'touchpad'
     Se sua tela continuar invertida, tente trocar os valores da variavel 'state'
 ***
