@@ -7,3 +7,9 @@ A Python script to give auto-rotation capabilities to 2-in-1 laptops in Linux
 This script uses **iio-sensor-proxy** to read the screen's pitch and roll angles and sets the desired orientation using **xrandr**. Please install these programs if they aren't already included to make this work.
 
 To make the script permanent, make it executable with **chmod +x AutoRotateScreen.py** and add it to the Startup Applications list so it starts working at login.
+
+# Mudar nome da variavel 'touchpad'
+
+***
+    Se sua tela continuar invertida, tente trocar os valores da variavel 'state'
+***
