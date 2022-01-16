@@ -1,9 +1,6 @@
 # AutoRotateScreen
 Um script Python para fornecer recursos de rotação automática para laptops 2 em 1 no Linux
 
-<div align="center"><a href="https://www.youtube.com/watch?v=lVW6cMOrwZ0" target="_blank"><img src="Video.gif" ></a></div>
-<p align="center"><a href="https://www.youtube.com/watch?v=lVW6cMOrwZ0" target="_blank">Click on gif to see full video</a></p>
-
 
 Este script usa **iio-sensor-proxy** para ler os ângulos de inclinação e rotação da tela e define a orientação desejada usando **xrandr**. Instale esses programas se eles ainda não estiverem incluídos para que isso funcione.
 
